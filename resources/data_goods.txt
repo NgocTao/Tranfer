@@ -1,0 +1,29 @@
+4
+Hang de vo
+ID123212
+streetA
+streetB
+500
+type1
+100000
+Hang Kim Loai
+ID4232121
+streetC
+streetB
+700
+type2
+150000
+Hang Kim Loai
+ID4gf323
+streetD
+streetA
+790
+type8
+200000
+Hang de vo
+ID4ddsa22
+streetG
+streetH
+300
+type6
+180000

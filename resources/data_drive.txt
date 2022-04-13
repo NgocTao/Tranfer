@@ -1,0 +1,13 @@
+3
+Nguyen Van A
+A
+100
+1993
+Nguyen Van B
+C
+300
+1991
+Nguyen Van C
+B
+50
+1999
